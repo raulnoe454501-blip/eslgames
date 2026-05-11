@@ -8,7 +8,7 @@
       "id": "anagrama",
       "title": "Anagrama",
       "file": "Anagrama.html",
-      "bankType": "words",
+      "bankType": "pairs",
       "usesTranslation": true,
       "enabled": true
     },
