@@ -51,6 +51,14 @@
       "bankType": "words",
       "usesTranslation": false,
       "enabled": true
-    }
+    },
+    {
+  "id": "tictactoe",
+  "title": "Tic Tac Toe",
+  "file": "Tictactoe.html",
+  "bankType": "words",
+  "usesTranslation": false,
+  "enabled": true
+},
   ]
 }
