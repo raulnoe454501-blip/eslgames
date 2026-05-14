@@ -1,7 +1,7 @@
 {
   "app": "ESL English",
   "schema": "esl-word-bank-v3",
-  "updatedAt": "2026-05-14T17:02:27.834Z",
+  "updatedAt": "2026-05-14T19:47:14.442Z",
   "levels": [
     "Inglés I",
     "Inglés II",
@@ -16421,10 +16421,6 @@
       "entryFormat": "word_def_es_def_en",
       "levels": {
         "Inglés I": {
-          "General": [
-            "Listo, aquí tienes el banco en el formato:",
-            "```txt"
-          ],
           "Different things": [
             {
               "word": "APPLE",
