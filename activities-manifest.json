@@ -59,6 +59,14 @@
   "bankType": "words",
   "usesTranslation": false,
   "enabled": true
+},
+      {
+  "id": "pasa-palabra",
+  "title": "Pasa Palabra",
+  "file": "Pasa Palabra.html",
+  "bankType": "pairs",
+  "usesTranslation": true,
+  "enabled": true
 }
   ]
 }
