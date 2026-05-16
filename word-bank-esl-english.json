@@ -1,7 +1,7 @@
 {
   "app": "ESL English",
   "schema": "esl-word-bank-v3",
-  "updatedAt": "2026-05-14T19:47:14.442Z",
+  "updatedAt": "2026-05-16T18:40:14.511Z",
   "levels": [
     "Inglés I",
     "Inglés II",
@@ -17491,7 +17491,738 @@
             "```"
           ]
         },
-        "Inglés II": {},
+        "Inglés II": {
+          "Adverbs of frequency": [
+            {
+              "word": "always",
+              "translation": "algo que pasa todo el tiempo",
+              "englishDefinition": "something that happens all the time"
+            },
+            {
+              "word": "usually",
+              "translation": "algo que pasa casi siempre",
+              "englishDefinition": "something that happens most of the time"
+            },
+            {
+              "word": "sometimes",
+              "translation": "algo que pasa algunas veces",
+              "englishDefinition": "something that happens on some occasions"
+            },
+            {
+              "word": "never",
+              "translation": "algo que no pasa en ningún momento",
+              "englishDefinition": "something that does not happen at any time"
+            },
+            {
+              "word": "often",
+              "translation": "algo que pasa muchas veces",
+              "englishDefinition": "something that happens many times"
+            }
+          ],
+          "Reactions": [
+            {
+              "word": "It is Ok",
+              "translation": "expresión para decir que algo está bien",
+              "englishDefinition": "an expression to say something is fine"
+            },
+            {
+              "word": "I love it",
+              "translation": "expresión para decir que algo te encanta",
+              "englishDefinition": "an expression to say you like something very much"
+            },
+            {
+              "word": "I do not like it",
+              "translation": "expresión para decir que algo no te gusta",
+              "englishDefinition": "an expression to say you do not enjoy something"
+            },
+            {
+              "word": "I hate it",
+              "translation": "expresión para decir que algo te desagrada mucho",
+              "englishDefinition": "an expression to say you dislike something very much"
+            },
+            {
+              "word": "I like it",
+              "translation": "expresión para decir que algo te gusta",
+              "englishDefinition": "an expression to say you enjoy something"
+            }
+          ],
+          "Nationalities": [
+            {
+              "word": "American",
+              "translation": "persona que nace en Estados Unidos",
+              "englishDefinition": "a person from the United States"
+            },
+            {
+              "word": "Chinese",
+              "translation": "persona que nace en China",
+              "englishDefinition": "a person from China"
+            },
+            {
+              "word": "English",
+              "translation": "persona que nace en Inglaterra",
+              "englishDefinition": "a person from England"
+            },
+            {
+              "word": "Indian",
+              "translation": "persona que nace en India",
+              "englishDefinition": "a person from India"
+            },
+            {
+              "word": "Italian",
+              "translation": "persona que nace en Italia",
+              "englishDefinition": "a person from Italy"
+            },
+            {
+              "word": "Mexican",
+              "translation": "persona que nace en México",
+              "englishDefinition": "a person from Mexico"
+            },
+            {
+              "word": "Thai",
+              "translation": "persona que nace en Tailandia",
+              "englishDefinition": "a person from Thailand"
+            },
+            {
+              "word": "Turkish",
+              "translation": "persona que nace en Turquía",
+              "englishDefinition": "a person from Turkey"
+            }
+          ],
+          "Free time activities": [
+            {
+              "word": "Dancing",
+              "translation": "actividad de mover el cuerpo con música",
+              "englishDefinition": "the activity of moving your body to music"
+            },
+            {
+              "word": "going to the movies",
+              "translation": "actividad de ver películas en el cine",
+              "englishDefinition": "the activity of watching films at the cinema"
+            },
+            {
+              "word": "meeting friends",
+              "translation": "actividad de pasar tiempo con amigos",
+              "englishDefinition": "the activity of spending time with friends"
+            },
+            {
+              "word": "playing video games",
+              "translation": "actividad de jugar en una consola o computadora",
+              "englishDefinition": "the activity of playing games on a console or computer"
+            },
+            {
+              "word": "reading",
+              "translation": "actividad de mirar y entender palabras",
+              "englishDefinition": "the activity of looking at and understanding words"
+            },
+            {
+              "word": "shopping",
+              "translation": "actividad de comprar cosas",
+              "englishDefinition": "the activity of buying things"
+            },
+            {
+              "word": "talking on the phone",
+              "translation": "actividad de hablar usando un teléfono",
+              "englishDefinition": "the activity of speaking using a phone"
+            },
+            {
+              "word": "watching TV",
+              "translation": "actividad de mirar programas de televisión",
+              "englishDefinition": "the activity of watching television programs"
+            }
+          ],
+          "Parts of the body": [
+            {
+              "word": "arm",
+              "translation": "parte del cuerpo entre el hombro y la mano",
+              "englishDefinition": "the body part between the shoulder and the hand"
+            },
+            {
+              "word": "ear",
+              "translation": "parte del cuerpo que usamos para escuchar",
+              "englishDefinition": "the body part used for hearing"
+            },
+            {
+              "word": "eye",
+              "translation": "parte del cuerpo que usamos para ver",
+              "englishDefinition": "the body part used for seeing"
+            },
+            {
+              "word": "face",
+              "translation": "parte frontal de la cabeza",
+              "englishDefinition": "the front part of the head"
+            },
+            {
+              "word": "foot",
+              "translation": "parte del cuerpo al final de la pierna",
+              "englishDefinition": "the body part at the end of the leg"
+            },
+            {
+              "word": "hand",
+              "translation": "parte del cuerpo que usamos para agarrar cosas",
+              "englishDefinition": "the body part used for holding things"
+            },
+            {
+              "word": "head",
+              "translation": "parte superior del cuerpo donde está el cerebro",
+              "englishDefinition": "the top part of the body where the brain is"
+            },
+            {
+              "word": "leg",
+              "translation": "parte del cuerpo que usamos para caminar",
+              "englishDefinition": "the body part used for walking"
+            },
+            {
+              "word": "mouth",
+              "translation": "parte del cuerpo que usamos para comer y hablar",
+              "englishDefinition": "the body part used for eating and speaking"
+            },
+            {
+              "word": "nose",
+              "translation": "parte del cuerpo que usamos para oler",
+              "englishDefinition": "the body part used for smelling"
+            }
+          ],
+          "Clothes": [
+            {
+              "word": "dress",
+              "translation": "ropa que usan muchas mujeres en una sola pieza",
+              "englishDefinition": "clothing women often wear in one piece"
+            },
+            {
+              "word": "jacket",
+              "translation": "ropa que cubre la parte superior del cuerpo",
+              "englishDefinition": "clothing that covers the upper body"
+            },
+            {
+              "word": "jeans",
+              "translation": "pantalones hechos de tela resistente",
+              "englishDefinition": "pants made from strong denim material"
+            },
+            {
+              "word": "pants",
+              "translation": "ropa que cubre las piernas",
+              "englishDefinition": "clothing that covers the legs"
+            },
+            {
+              "word": "shirt",
+              "translation": "ropa para la parte superior del cuerpo",
+              "englishDefinition": "clothing for the upper body"
+            },
+            {
+              "word": "shoes",
+              "translation": "ropa que usamos en los pies",
+              "englishDefinition": "things we wear on our feet"
+            },
+            {
+              "word": "shorts",
+              "translation": "ropa corta para las piernas",
+              "englishDefinition": "short clothing for the legs"
+            },
+            {
+              "word": "skirt",
+              "translation": "ropa que cubre desde la cintura hacia abajo",
+              "englishDefinition": "clothing worn from the waist down"
+            },
+            {
+              "word": "T-shirt",
+              "translation": "camiseta casual de manga corta",
+              "englishDefinition": "a casual short-sleeved shirt"
+            },
+            {
+              "word": "tie",
+              "translation": "accesorio que se usa alrededor del cuello",
+              "englishDefinition": "an accessory worn around the neck"
+            },
+            {
+              "word": "trousers",
+              "translation": "ropa larga que cubre las piernas",
+              "englishDefinition": "long clothing that covers the legs"
+            }
+          ],
+          "Skills": [
+            {
+              "word": "cook",
+              "translation": "habilidad para preparar comida",
+              "englishDefinition": "the ability to prepare food"
+            },
+            {
+              "word": "dance",
+              "translation": "habilidad para mover el cuerpo con música",
+              "englishDefinition": "the ability to move your body to music"
+            },
+            {
+              "word": "draw",
+              "translation": "habilidad para hacer imágenes con lápiz o pluma",
+              "englishDefinition": "the ability to make pictures with a pencil or pen"
+            },
+            {
+              "word": "paint",
+              "translation": "habilidad para crear imágenes con pintura",
+              "englishDefinition": "the ability to create pictures with paint"
+            },
+            {
+              "word": "play chess",
+              "translation": "habilidad para jugar un juego de estrategia",
+              "englishDefinition": "the ability to play a strategy game"
+            },
+            {
+              "word": "play the guitar",
+              "translation": "habilidad para tocar un instrumento musical",
+              "englishDefinition": "the ability to play a musical instrument"
+            },
+            {
+              "word": "sing",
+              "translation": "habilidad para hacer música con la voz",
+              "englishDefinition": "the ability to make music with your voice"
+            },
+            {
+              "word": "speak Spanish",
+              "translation": "habilidad para comunicarse en español",
+              "englishDefinition": "the ability to communicate in Spanish"
+            },
+            {
+              "word": "write a computer program",
+              "translation": "habilidad para crear instrucciones para una computadora",
+              "englishDefinition": "the ability to create instructions for a computer"
+            }
+          ],
+          "Prepositions of place": [
+            {
+              "word": "behind",
+              "translation": "posición en la parte de atrás",
+              "englishDefinition": "position at the back of something"
+            },
+            {
+              "word": "between",
+              "translation": "posición en el medio de dos cosas",
+              "englishDefinition": "position in the middle of two things"
+            },
+            {
+              "word": "in",
+              "translation": "posición dentro de un lugar",
+              "englishDefinition": "position inside a place"
+            },
+            {
+              "word": "in front of",
+              "translation": "posición delante de algo",
+              "englishDefinition": "position before something"
+            },
+            {
+              "word": "near",
+              "translation": "posición a poca distancia",
+              "englishDefinition": "position at a short distance"
+            },
+            {
+              "word": "next to",
+              "translation": "posición al lado de algo",
+              "englishDefinition": "position beside something"
+            },
+            {
+              "word": "on",
+              "translation": "posición sobre una superficie",
+              "englishDefinition": "position on a surface"
+            },
+            {
+              "word": "under",
+              "translation": "posición debajo de algo",
+              "englishDefinition": "position below something"
+            }
+          ],
+          "Places in a town": [
+            {
+              "word": "bank",
+              "translation": "lugar donde las personas guardan dinero",
+              "englishDefinition": "a place where people keep money"
+            },
+            {
+              "word": "café",
+              "translation": "lugar pequeño para tomar café y comer",
+              "englishDefinition": "a small place to drink coffee and eat"
+            },
+            {
+              "word": "clothing store",
+              "translation": "lugar donde se vende ropa",
+              "englishDefinition": "a place where clothes are sold"
+            },
+            {
+              "word": "coffee shop",
+              "translation": "lugar donde las personas toman café",
+              "englishDefinition": "a place where people drink coffee"
+            },
+            {
+              "word": "hospital",
+              "translation": "lugar donde los médicos ayudan a las personas",
+              "englishDefinition": "a place where doctors help people"
+            },
+            {
+              "word": "parking lot",
+              "translation": "lugar donde se estacionan vehículos",
+              "englishDefinition": "a place where vehicles are parked"
+            },
+            {
+              "word": "restaurant",
+              "translation": "lugar donde las personas compran y comen comida",
+              "englishDefinition": "a place where people buy and eat food"
+            },
+            {
+              "word": "school",
+              "translation": "lugar donde los estudiantes aprenden",
+              "englishDefinition": "a place where students learn"
+            },
+            {
+              "word": "train station",
+              "translation": "lugar donde las personas toman trenes",
+              "englishDefinition": "a place where people take trains"
+            },
+            {
+              "word": "supermarket",
+              "translation": "lugar grande donde las personas compran comida",
+              "englishDefinition": "a large place where people buy food"
+            }
+          ],
+          "Jobs": [
+            {
+              "word": "actor",
+              "translation": "persona que trabaja en películas o teatro",
+              "englishDefinition": "a person who works in movies or theater"
+            },
+            {
+              "word": "baker",
+              "translation": "persona que hace pan y pasteles",
+              "englishDefinition": "a person who makes bread and cakes"
+            },
+            {
+              "word": "doctor",
+              "translation": "persona que ayuda a las personas enfermas",
+              "englishDefinition": "a person who helps sick people"
+            },
+            {
+              "word": "taxi driver",
+              "translation": "persona que conduce un taxi",
+              "englishDefinition": "a person who drives a taxi"
+            },
+            {
+              "word": "lawyer",
+              "translation": "persona que trabaja con leyes",
+              "englishDefinition": "a person who works with laws"
+            },
+            {
+              "word": "musician",
+              "translation": "persona que toca música",
+              "englishDefinition": "a person who plays music"
+            },
+            {
+              "word": "nurse",
+              "translation": "persona que ayuda a cuidar pacientes",
+              "englishDefinition": "a person who helps care for patients"
+            },
+            {
+              "word": "server",
+              "translation": "persona que lleva comida a las mesas",
+              "englishDefinition": "a person who brings food to tables"
+            },
+            {
+              "word": "teacher",
+              "translation": "persona que enseña a estudiantes",
+              "englishDefinition": "a person who teaches students"
+            },
+            {
+              "word": "tennis player",
+              "translation": "persona que juega tenis",
+              "englishDefinition": "a person who plays tennis"
+            },
+            {
+              "word": "waiter",
+              "translation": "hombre que sirve comida en un restaurante",
+              "englishDefinition": "a man who serves food in a restaurant"
+            },
+            {
+              "word": "waitress",
+              "translation": "mujer que sirve comida en un restaurante",
+              "englishDefinition": "a woman who serves food in a restaurant"
+            }
+          ],
+          "Past time expressions": [
+            {
+              "word": "four hours ago",
+              "translation": "expresión para hablar de hace cuatro horas",
+              "englishDefinition": "an expression for something four hours before now"
+            },
+            {
+              "word": "last month",
+              "translation": "expresión para hablar del mes pasado",
+              "englishDefinition": "an expression for the previous month"
+            },
+            {
+              "word": "last night",
+              "translation": "expresión para hablar de anoche",
+              "englishDefinition": "an expression for the night before today"
+            },
+            {
+              "word": "last weekend",
+              "translation": "expresión para hablar del fin de semana pasado",
+              "englishDefinition": "an expression for the previous weekend"
+            },
+            {
+              "word": "last week",
+              "translation": "expresión para hablar de la semana pasada",
+              "englishDefinition": "an expression for the previous week"
+            },
+            {
+              "word": "last year",
+              "translation": "expresión para hablar del año pasado",
+              "englishDefinition": "an expression for the previous year"
+            },
+            {
+              "word": "this afternoon",
+              "translation": "expresión para hablar de esta tarde",
+              "englishDefinition": "an expression for the afternoon of today"
+            },
+            {
+              "word": "this morning",
+              "translation": "expresión para hablar de esta mañana",
+              "englishDefinition": "an expression for the morning of today"
+            },
+            {
+              "word": "two weeks ago",
+              "translation": "expresión para hablar de hace dos semanas",
+              "englishDefinition": "an expression for two weeks before now"
+            },
+            {
+              "word": "yesterday",
+              "translation": "expresión para hablar del día anterior",
+              "englishDefinition": "an expression for the day before today"
+            },
+            {
+              "word": "yesterday afternoon",
+              "translation": "expresión para hablar de ayer por la tarde",
+              "englishDefinition": "an expression for the afternoon of the previous day"
+            },
+            {
+              "word": "yesterday evening",
+              "translation": "expresión para hablar de ayer por la noche",
+              "englishDefinition": "an expression for the evening of the previous day"
+            },
+            {
+              "word": "yesterday morning",
+              "translation": "expresión para hablar de ayer por la mañana",
+              "englishDefinition": "an expression for the morning of the previous day"
+            }
+          ],
+          "Verb phrases: Celebrating": [
+            {
+              "word": "go out to dinner",
+              "translation": "actividad de salir a comer en un restaurante",
+              "englishDefinition": "the activity of going to eat at a restaurant"
+            },
+            {
+              "word": "go out with friends",
+              "translation": "actividad de salir con amigos",
+              "englishDefinition": "the activity of spending time outside with friends"
+            },
+            {
+              "word": "go to a barbecue",
+              "translation": "actividad de asistir a una comida al aire libre",
+              "englishDefinition": "the activity of attending an outdoor meal"
+            },
+            {
+              "word": "go to a concert",
+              "translation": "actividad de asistir a un evento musical",
+              "englishDefinition": "the activity of attending a music event"
+            },
+            {
+              "word": "go to a party",
+              "translation": "actividad de asistir a una celebración",
+              "englishDefinition": "the activity of attending a celebration"
+            },
+            {
+              "word": "go to a restaurant",
+              "translation": "actividad de ir a un lugar para comer",
+              "englishDefinition": "the activity of going to a place to eat"
+            },
+            {
+              "word": "have a barbecue",
+              "translation": "actividad de cocinar comida al aire libre",
+              "englishDefinition": "the activity of cooking food outdoors"
+            },
+            {
+              "word": "have a good time",
+              "translation": "actividad de disfrutar un momento",
+              "englishDefinition": "the activity of enjoying a moment"
+            },
+            {
+              "word": "have a party",
+              "translation": "actividad de realizar una celebración",
+              "englishDefinition": "the activity of having a celebration"
+            },
+            {
+              "word": "have fun",
+              "translation": "actividad de disfrutar y divertirse",
+              "englishDefinition": "the activity of enjoying yourself"
+            }
+          ],
+          "Review categories": [
+            {
+              "word": "clothes",
+              "translation": "cosas que usamos para vestirnos",
+              "englishDefinition": "things we wear on our body"
+            },
+            {
+              "word": "colors",
+              "translation": "palabras para describir diferentes tonos",
+              "englishDefinition": "words used to describe different shades"
+            },
+            {
+              "word": "countries",
+              "translation": "lugares grandes donde viven personas",
+              "englishDefinition": "large places where people live under one government"
+            },
+            {
+              "word": "drinks",
+              "translation": "líquidos que las personas toman",
+              "englishDefinition": "liquids that people drink"
+            },
+            {
+              "word": "family",
+              "translation": "grupo de personas relacionadas",
+              "englishDefinition": "group of related people"
+            },
+            {
+              "word": "furniture",
+              "translation": "objetos que usamos en una casa",
+              "englishDefinition": "objects we use inside a house"
+            },
+            {
+              "word": "jobs",
+              "translation": "trabajos que realizan las personas",
+              "englishDefinition": "work that people do"
+            },
+            {
+              "word": "parts of the body",
+              "translation": "partes físicas de una persona",
+              "englishDefinition": "physical parts of a person"
+            },
+            {
+              "word": "places in a town",
+              "translation": "lugares que existen en una ciudad",
+              "englishDefinition": "places that exist in a city"
+            },
+            {
+              "word": "technology",
+              "translation": "objetos y sistemas modernos usados para tareas",
+              "englishDefinition": "modern objects and systems used for tasks"
+            }
+          ],
+          "Studio channels": [
+            {
+              "word": "arts",
+              "translation": "temas relacionados con creatividad y expresión",
+              "englishDefinition": "topics related to creativity and expression"
+            },
+            {
+              "word": "entertainment",
+              "translation": "temas relacionados con diversión",
+              "englishDefinition": "topics related to fun and enjoyment"
+            },
+            {
+              "word": "business",
+              "translation": "temas relacionados con trabajo y dinero",
+              "englishDefinition": "topics related to work and money"
+            },
+            {
+              "word": "earth",
+              "translation": "temas relacionados con el mundo y la naturaleza",
+              "englishDefinition": "topics related to the world and nature"
+            },
+            {
+              "word": "education",
+              "translation": "temas relacionados con aprendizaje",
+              "englishDefinition": "topics related to learning"
+            },
+            {
+              "word": "food",
+              "translation": "temas relacionados con comida",
+              "englishDefinition": "topics related to meals and eating"
+            },
+            {
+              "word": "history",
+              "translation": "temas relacionados con el pasado",
+              "englishDefinition": "topics related to the past"
+            },
+            {
+              "word": "living",
+              "translation": "temas relacionados con la vida diaria",
+              "englishDefinition": "topics related to daily life"
+            },
+            {
+              "word": "people",
+              "translation": "temas relacionados con personas",
+              "englishDefinition": "topics related to human beings"
+            },
+            {
+              "word": "science",
+              "translation": "temas relacionados con estudios y descubrimientos",
+              "englishDefinition": "topics related to studies and discoveries"
+            },
+            {
+              "word": "technology",
+              "translation": "temas relacionados con computadoras y máquinas",
+              "englishDefinition": "topics related to computers and machines"
+            },
+            {
+              "word": "sports",
+              "translation": "temas relacionados con actividades físicas",
+              "englishDefinition": "topics related to physical activities"
+            },
+            {
+              "word": "style",
+              "translation": "temas relacionados con moda y apariencia",
+              "englishDefinition": "topics related to fashion and appearance"
+            },
+            {
+              "word": "travel",
+              "translation": "temas relacionados con viajes",
+              "englishDefinition": "topics related to trips and journeys"
+            }
+          ],
+          "Transportation and travel": [
+            {
+              "word": "drive a car",
+              "translation": "actividad de manejar un automóvil",
+              "englishDefinition": "the activity of operating a car"
+            },
+            {
+              "word": "fly a plane",
+              "translation": "actividad de controlar un avión",
+              "englishDefinition": "the activity of controlling an airplane"
+            },
+            {
+              "word": "go by train",
+              "translation": "actividad de viajar en tren",
+              "englishDefinition": "the activity of traveling by train"
+            },
+            {
+              "word": "take a taxi",
+              "translation": "actividad de usar un taxi para transportarse",
+              "englishDefinition": "the activity of using a taxi for transportation"
+            },
+            {
+              "word": "travel by bus",
+              "translation": "actividad de viajar en autobús",
+              "englishDefinition": "the activity of traveling by bus"
+            },
+            {
+              "word": "stay in a hotel",
+              "translation": "actividad de dormir y descansar en un hotel",
+              "englishDefinition": "the activity of sleeping and resting in a hotel"
+            },
+            {
+              "word": "visit New York",
+              "translation": "actividad de viajar y conocer Nueva York",
+              "englishDefinition": "the activity of traveling to and seeing New York"
+            }
+          ]
+        },
         "Inglés III": {},
         "Inglés IV": {}
       }
